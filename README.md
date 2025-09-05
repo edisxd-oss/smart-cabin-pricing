@@ -56,15 +56,14 @@ main()
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
+When dataset used in this project isbased on publicly available statistics and synthetic examples for demonstration purposes. I did not collect the data myself; it is inspired by open sources such as:
+OECD Data
+Statistics Finland
+No private or sensitive information is used. All data included here is simplified for educational purposes.
+Source	Description	License / Access
+OECD Data	Economic and social statistics across OECD	Public / Open
+Statistics Finland	Official Finnish statistical data	Public / Open
 ## Challenges
 
 The project does not guarantee exact market prices; it only provides estimates.
