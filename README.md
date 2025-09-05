@@ -28,8 +28,7 @@ Save the trained model for reuse.
 Run the prediction script with new input values to estimate the cabin price.
 Optionally, extend the project with more features or connect it to a simple web app for interactive use.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
+
 ![Cat](images.jpeg)
 
 
